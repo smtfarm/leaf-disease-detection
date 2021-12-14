@@ -1,0 +1,39 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_1912.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Leaf Curl Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>420.58</xmin>
+      <ymin>239.22</ymin>
+      <xmax>701.52</xmax>
+      <ymax>482.09</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Leaf Curl Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>450.5</xmin>
+      <ymin>550.24</ymin>
+      <xmax>620.06</xmax>
+      <ymax>937.57</ymax>
+    </bndbox>
+  </object>
+</annotation>

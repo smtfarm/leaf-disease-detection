@@ -1,0 +1,27 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20211104_154445.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>461</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>117.21</xmin>
+      <ymin>184.13</ymin>
+      <xmax>399.41</xmax>
+      <ymax>841.45</ymax>
+    </bndbox>
+  </object>
+</annotation>

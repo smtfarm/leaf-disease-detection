@@ -1,0 +1,51 @@
+<annotation>
+  <folder></folder>
+  <filename>DSC07746.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>576</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>347.77</xmin>
+      <ymin>551.49</ymin>
+      <xmax>397.06</xmax>
+      <ymax>596.08</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>249.2</xmin>
+      <ymin>540.92</ymin>
+      <xmax>316.09</xmax>
+      <ymax>574.95</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>467.47</xmin>
+      <ymin>280.42</ymin>
+      <xmax>523.79</xmax>
+      <ymax>346.13</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,75 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20211104_155626.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>461</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Alternaria brassicicola</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>117.43</xmin>
+      <ymin>822.36</ymin>
+      <xmax>225.43</xmax>
+      <ymax>936.95</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Alternaria brassicicola</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>261.66</xmin>
+      <ymin>437.6</ymin>
+      <xmax>354.56</xmax>
+      <ymax>523.24</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Alternaria brassicicola</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>255.14</xmin>
+      <ymin>616.95</ymin>
+      <xmax>366.78</xmax>
+      <ymax>670.74</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Alternaria brassicicola</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>140.24</xmin>
+      <ymin>398.48</ymin>
+      <xmax>186.69</xmax>
+      <ymax>502.87</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Alternaria brassicicola</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>109.93</xmin>
+      <ymin>707.48</ymin>
+      <xmax>159.92</xmax>
+      <ymax>743.79</ymax>
+    </bndbox>
+  </object>
+</annotation>

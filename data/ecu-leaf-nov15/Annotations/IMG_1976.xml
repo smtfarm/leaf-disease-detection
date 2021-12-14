@@ -1,0 +1,51 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_1976.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>156.27</xmin>
+      <ymin>239.39</ymin>
+      <xmax>403.96</xmax>
+      <ymax>560.22</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>402.3</xmin>
+      <ymin>558.56</ymin>
+      <xmax>746.4</xmax>
+      <ymax>701.52</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>392.32</xmin>
+      <ymin>4.83</ymin>
+      <xmax>633.36</xmax>
+      <ymax>174.56</ymax>
+    </bndbox>
+  </object>
+</annotation>

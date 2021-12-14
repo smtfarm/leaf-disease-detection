@@ -1,0 +1,123 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20211104_154801.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>461</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>152.42</xmin>
+      <ymin>322.34</ymin>
+      <xmax>171.29</xmax>
+      <ymax>343.56</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>315.92</xmin>
+      <ymin>646.41</ymin>
+      <xmax>346.48</xmax>
+      <ymax>680.93</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>248.35</xmin>
+      <ymin>607.93</ymin>
+      <xmax>272.69</xmax>
+      <ymax>634.52</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>215.53</xmin>
+      <ymin>581.84</ymin>
+      <xmax>239.3</xmax>
+      <ymax>604.53</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>195.67</xmin>
+      <ymin>426.42</ymin>
+      <xmax>211.06</xmax>
+      <ymax>443.12</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>182.21</xmin>
+      <ymin>454.25</ymin>
+      <xmax>195.01</xmax>
+      <ymax>465.06</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>169.11</xmin>
+      <ymin>462.44</ymin>
+      <xmax>177.66</xmax>
+      <ymax>474.56</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>218.45</xmin>
+      <ymin>319.03</ymin>
+      <xmax>234.95</xmax>
+      <ymax>340.26</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>191.57</xmin>
+      <ymin>322.81</ymin>
+      <xmax>209.49</xmax>
+      <ymax>336.48</ymax>
+    </bndbox>
+  </object>
+</annotation>

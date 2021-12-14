@@ -1,0 +1,87 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20211104_164150.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>461</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>61.45</xmin>
+      <ymin>510.25</ymin>
+      <xmax>308.16</xmax>
+      <ymax>954.66</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>375.75</xmin>
+      <ymin>470.38</ymin>
+      <xmax>460.24</xmax>
+      <ymax>820.16</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>4.0</xmin>
+      <ymin>434.21</ymin>
+      <xmax>213.53</xmax>
+      <ymax>540.7</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>93.56</xmin>
+      <ymin>287.21</ymin>
+      <xmax>221.98</xmax>
+      <ymax>515.32</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>47.93</xmin>
+      <ymin>222.99</ymin>
+      <xmax>193.25</xmax>
+      <ymax>317.62</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>4.0</xmin>
+      <ymin>314.24</ymin>
+      <xmax>108.77</xmax>
+      <ymax>601.5</ymax>
+    </bndbox>
+  </object>
+</annotation>

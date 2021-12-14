@@ -1,0 +1,51 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20211104_160938.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>461</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Ragged Stunt Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>335.19</xmin>
+      <ymin>537.29</ymin>
+      <xmax>455.17</xmax>
+      <ymax>692.75</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Ragged Stunt Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>201.7</xmin>
+      <ymin>473.08</ymin>
+      <xmax>269.29</xmax>
+      <ymax>528.84</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Ragged Stunt Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>193.25</xmin>
+      <ymin>353.11</ymin>
+      <xmax>254.09</xmax>
+      <ymax>434.22</ymax>
+    </bndbox>
+  </object>
+</annotation>

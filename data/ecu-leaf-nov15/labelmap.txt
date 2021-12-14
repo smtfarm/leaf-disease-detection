@@ -1,0 +1,10 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+Canker:128,0,0::
+Sooty mold:0,128,0::
+Ragged Stunt Disease:128,128,0::
+Pepper yellow leaf:0,0,128::
+Alternaria brassicicola:128,0,128::
+Leaf Curl Disease:0,128,128::
+frog-eye leafspot:128,128,128::
+Rust:64,0,0::

@@ -1,0 +1,63 @@
+<annotation>
+  <folder></folder>
+  <filename>DSC07800.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>576</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Leaf Curl Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1.77</xmin>
+      <ymin>57.13</ymin>
+      <xmax>115.32</xmax>
+      <ymax>292.34</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Leaf Curl Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>84.91</xmin>
+      <ymin>371.42</ymin>
+      <xmax>291.73</xmax>
+      <ymax>787.11</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Leaf Curl Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>330.26</xmin>
+      <ymin>197.04</ymin>
+      <xmax>549.25</xmax>
+      <ymax>472.80999999999995</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Leaf Curl Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>391.09</xmin>
+      <ymin>38.88</ymin>
+      <xmax>563.45</xmax>
+      <ymax>190.96</ymax>
+    </bndbox>
+  </object>
+</annotation>

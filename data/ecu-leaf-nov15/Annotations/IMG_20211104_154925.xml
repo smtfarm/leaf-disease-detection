@@ -1,0 +1,39 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20211104_154925.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>461</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Alternaria brassicicola</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>205.08</xmin>
+      <ymin>390.28</ymin>
+      <xmax>460.24</xmax>
+      <ymax>768.79</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Alternaria brassicicola</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>12.45</xmin>
+      <ymin>285.52</ymin>
+      <xmax>196.63</xmax>
+      <ymax>729.92</ymax>
+    </bndbox>
+  </object>
+</annotation>

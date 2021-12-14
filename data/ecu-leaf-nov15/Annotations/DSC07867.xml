@@ -1,0 +1,39 @@
+<annotation>
+  <folder></folder>
+  <filename>DSC07867.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>576</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Ragged Stunt Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>272.56</xmin>
+      <ymin>690.19</ymin>
+      <xmax>387.55</xmax>
+      <ymax>872.07</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Leaf Curl Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>64.86</xmin>
+      <ymin>578.71</ymin>
+      <xmax>236.18</xmax>
+      <ymax>813.4</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,63 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_1945.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>472.2</xmin>
+      <ymin>129.7</ymin>
+      <xmax>485.98</xmax>
+      <ymax>148.07</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>340.47</xmin>
+      <ymin>636.71</ymin>
+      <xmax>353.41</xmax>
+      <ymax>650.53</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>369.79</xmin>
+      <ymin>451.27</ymin>
+      <xmax>382.55</xmax>
+      <ymax>462.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>762.39</xmin>
+      <ymin>739.47</ymin>
+      <xmax>771.58</xmax>
+      <ymax>746.61</ymax>
+    </bndbox>
+  </object>
+</annotation>

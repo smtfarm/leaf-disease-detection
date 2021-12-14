@@ -1,0 +1,63 @@
+<annotation>
+  <folder></folder>
+  <filename>DSC07722.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>576</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40.1</xmin>
+      <ymin>85.29</ymin>
+      <xmax>57.02</xmax>
+      <ymax>104.94</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>457.97</xmin>
+      <ymin>524.46</ymin>
+      <xmax>497.08</xmax>
+      <ymax>558.69</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>59.66</xmin>
+      <ymin>307.9</ymin>
+      <xmax>71.45</xmax>
+      <ymax>323.29</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>frog-eye leafspot</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>155.13</xmin>
+      <ymin>975.68</ymin>
+      <xmax>176.09</xmax>
+      <ymax>994.71</ymax>
+    </bndbox>
+  </object>
+</annotation>

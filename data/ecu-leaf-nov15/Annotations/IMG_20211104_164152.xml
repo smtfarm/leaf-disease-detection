@@ -1,0 +1,63 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20211104_164152.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>461</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>181.29</xmin>
+      <ymin>168.33</ymin>
+      <xmax>295.34</xmax>
+      <ymax>354.2</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>3.01</xmin>
+      <ymin>445.29</ymin>
+      <xmax>60.51</xmax>
+      <ymax>730.44</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>117.07</xmin>
+      <ymin>609.78</ymin>
+      <xmax>229.72</xmax>
+      <ymax>685.82</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2.28</xmin>
+      <ymin>183.18</ymin>
+      <xmax>57.69</xmax>
+      <ymax>442.32</ymax>
+    </bndbox>
+  </object>
+</annotation>

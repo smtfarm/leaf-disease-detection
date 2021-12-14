@@ -1,0 +1,27 @@
+<annotation>
+  <folder></folder>
+  <filename>DSC07857.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>576</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Leaf Curl Disease</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>85.28</xmin>
+      <ymin>329.45</ymin>
+      <xmax>467.16999999999996</xmax>
+      <ymax>773.86</ymax>
+    </bndbox>
+  </object>
+</annotation>

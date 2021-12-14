@@ -1,0 +1,27 @@
+<annotation>
+  <folder></folder>
+  <filename>DSC07741.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>576</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>179.91</xmin>
+      <ymin>329.45</ymin>
+      <xmax>369.16</xmax>
+      <ymax>713.03</ymax>
+    </bndbox>
+  </object>
+</annotation>

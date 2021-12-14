@@ -1,0 +1,39 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20211104_160143.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>461</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Sooty mold</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>154.39</xmin>
+      <ymin>478.26</ymin>
+      <xmax>420.53</xmax>
+      <ymax>904.93</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Sooty mold</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>8.79</xmin>
+      <ymin>628.09</ymin>
+      <xmax>143.97</xmax>
+      <ymax>811.29</ymax>
+    </bndbox>
+  </object>
+</annotation>

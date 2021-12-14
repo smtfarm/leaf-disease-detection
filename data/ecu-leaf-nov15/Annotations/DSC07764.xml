@@ -1,0 +1,27 @@
+<annotation>
+  <folder></folder>
+  <filename>DSC07764.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>576</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Alternaria brassicicola</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2.48</xmin>
+      <ymin>133.44</ymin>
+      <xmax>570.24</xmax>
+      <ymax>893.8300000000002</ymax>
+    </bndbox>
+  </object>
+</annotation>

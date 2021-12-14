@@ -1,0 +1,75 @@
+<annotation>
+  <folder></folder>
+  <filename>DSC07811.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>576</width>
+    <height>1024</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>320.16</xmin>
+      <ymin>65.85</ymin>
+      <xmax>575.31</xmax>
+      <ymax>500.12</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>232.29</xmin>
+      <ymin>211.17</ymin>
+      <xmax>431.68</xmax>
+      <ymax>833.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>44.72</xmin>
+      <ymin>508.57</ymin>
+      <xmax>233.98</xmax>
+      <ymax>657.27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>29.52</xmin>
+      <ymin>305.79</ymin>
+      <xmax>130.9</xmax>
+      <ymax>532.22</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pepper yellow leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>100.49</xmin>
+      <ymin>630.23</ymin>
+      <xmax>288.05</xmax>
+      <ymax>844.83</ymax>
+    </bndbox>
+  </object>
+</annotation>
